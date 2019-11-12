@@ -1,0 +1,76 @@
+@font-face{
+	src:url(font/Myfont-Regular.ttf);
+	font-family:Myfont-Regular;
+
+
+}
+@font-face{
+	src:url(font/icon.ttf);
+	font-family:icon;
+
+}
+li.p{
+	font-family: Myfont-Regular;
+	text-align: center;
+	font-size: 30px;
+	font-weight:bolder;
+}
+div.omega{
+	background-color: orange; border: solid black;
+	width: 405px;
+	height: 495px;
+	float: left;
+}
+li.bryan{
+	font-size:30px;
+font-family:Myfont-Regular; 
+font-weight:bolder;
+}
+li.list{
+font-size:45px;
+font-family:icon; 
+font-weight:bolder;
+text-align:center;
+
+}
+div.jeffrey{
+	background-color:#00FFFF ; border: solid black;
+	height: 100px;
+
+}
+div.right{
+		background-color: #00FF00; border: solid black;
+	width: 400px;
+	height: 495px;
+	float: right;
+
+
+}
+div.center{
+		background-color: #ADD8E6; border: solid black;
+	width: 495px;
+	height: 495px;
+	float:;
+	margin: 0 auto;
+
+}
+div.bottom{
+
+	background-color:#C0C0C0; border: solid black;
+	height: 100px	padding: 2px;
+
+}
+i.heading{
+		font-size:30px;
+font-family:Myfont-Regular
+
+}
+div.scroll{
+	background-color: white;
+	margin:1px, 1px;
+padding:1px;
+overflow-x: hidden;
+overflow-x: auto;
+}
+
+
